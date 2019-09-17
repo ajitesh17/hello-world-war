@@ -36,11 +36,11 @@
 	
  <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>snapshots</id>
       <url>http://ec2-3-84-211-190.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
     </snapshotRepository>
     <repository>
-      <id>nexus-releases</id>
+      <id>releases</id>
       <url>http://ec2-3-84-211-190.compute-1.amazonaws.com:8081/nexus/content/repositories/releases/</url>
     </repository>
   </distributionManagement>
