@@ -32,9 +32,7 @@
         <name>ip-172-31-42-136.ec2.internal-releases</name>
         <url>http://ec2-54-90-222-140.compute-1.amazonaws.com:8081/artifactory/jenkinsRelease</url>
     </repository>
-</distributionManagement>
-	
-<distributionManagement>
+
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-42-136.ec2.internal-snapshots</name>
