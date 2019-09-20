@@ -30,9 +30,9 @@
   <repository>
     <id>releases</id>
     <url>http://ec2-3-93-69-202.compute-1.amazonaws.com:8081/nexus/content/repositories/releases</url>
-  </repository>	
+  </repository>
 
-<snapshotRepository>
+  <snapshotRepository>
     <id>snapshots</id>
     <url>http://ec2-3-93-69-202.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
