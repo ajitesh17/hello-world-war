@@ -29,12 +29,12 @@
 <distributionManagement>
   <repository>
     <id>releases</id>
-    <url>http://ec2-3-93-69-202.compute-1.amazonaws.com:8081/nexus/content/repositories/releases</url>
+    <url>http://ec2-52-90-227-73.compute-1.amazonaws.com:8081/nexus/content/repositories/releases</url>
   </repository>
 
   <snapshotRepository>
     <id>snapshots</id>
-    <url>http://ec2-3-93-69-202.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
+    <url>http://ec2-52-90-227-73.compute-1.amazonaws.com:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 
